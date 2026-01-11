@@ -19,7 +19,7 @@ body {
   padding: 12px 25px;
   background-color: #000;
   position: fixed;
-  top: 0;
+  top: 15px;
   width: 70%;
   left: 15%;
   border: 2px dashed rgb(141, 73, 197);
@@ -243,3 +243,4 @@ button:hover {
     margin-top: 15px;
   }
 }
+
